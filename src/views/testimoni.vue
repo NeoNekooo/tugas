@@ -26,37 +26,37 @@
 const testimonies = [
   {
     name: 'Gayming',
-    title: 'CEO Blabal',
+    title: 'femboy slayer',
     content: 'miftah negro',
     size: 'w-96 h-60'
   },
   {
     name: 'Gayming',
-    title: 'Digital Marketer',
+    title: 'knee grow',
     content: 'miftah negro',
     size: 'w-80 h-56'
   },
   {
     name: 'Gayming',
-    title: 'Content Creator',
+    title: 'negrowrow',
     content: 'miftah negro',
     size: 'w-72 h-52'
   },
   {
     name: 'Gayming',
-    title: 'Marketing Manager',
+    title: 'naigrow',
     content: 'miftah negro',
     size: 'w-96 h-64'
   },
   {
     name: 'Gayming',
-    title: 'Owner Toko Online',
+    title: 'pleler',
     content: 'miftah negro.',
     size: 'w-80 h-56'
   },
   {
     name: 'Gayming',
-    title: 'Social Media Admin',
+    title: 'negroro',
     content: 'miftah negro',
     size: 'w-72 h-52'
   }
