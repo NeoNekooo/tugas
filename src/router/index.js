@@ -1,11 +1,12 @@
 // src/router/index.js
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import Produk from '../views/Produk.vue'
+import anggota from '@/components/anggota.vue'
+
 
 const routes = [
   { path: '/', name: 'Home', component: Home },
-  { path: '/produk', name: 'Produk', component: Produk }
+  { path: '/anggota', name: 'anggota', component: anggota },
 ]
 
 const router = createRouter({

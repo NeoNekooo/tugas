@@ -1,6 +1,6 @@
 <script setup>
 </script>
-            
+
 <template>
     <section id="product" class="py-16 px-4 max-w-6xl mx-auto">
         <h2 class="text-center text-2xl md:text-3xl font-semibold mb-12">Produk Kami</h2>
@@ -50,4 +50,3 @@
         </div>
     </section>
 </template>
-
