@@ -1,5 +1,5 @@
 <script setup>
-import navbar from "../components/navbar.vue";
+// import navbar from "../components/navbar.vue";
 // import { ref } from 'vue';
 </script>
 
@@ -18,8 +18,6 @@ import navbar from "../components/navbar.vue";
         <li>PT BOOSTER</li>
         <li>TEKNOLOGI INDONESIA</li>
       </div>
-
-      <navbar></navbar>
 
       <button
         class="hidden md:inline-block bg-[#C53534] text-white text-sm py-2 px-4 rounded-full hover:bg-red-700 mt-2">

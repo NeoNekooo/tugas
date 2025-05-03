@@ -1,6 +1,6 @@
             <script>
             import { FaLinkedin, FaInstagram, FaTiktok, FaYoutube } from 'react-icons/fa';
-            import navbar from "./navbar.vue";
+          import Navbar from './navbar.vue';
 
             export default {
               data() {
@@ -34,8 +34,8 @@
 </script>
 
 <template>
+  <Navbar/>
   <div class="relative py-16 px-4 max-w-7xl mx-auto text-center">
-    <Navbar></navbar>
     <h2 class="text-3xl font-bold mb-12">Anggota</h2>
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
       <div v-for="member in members" :key="member.id" class="cursor-pointer hover:scale-105 transition"

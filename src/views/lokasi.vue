@@ -2,7 +2,7 @@
     <div class="bg-white">
   
       <!-- Lokasi -->
-      <section class="px-4 py-20 max-w-7xl mx-auto">
+      <section class="px-11 py-20 max-w-7xl mx-auto">
         <h2 class="text-center text-3xl font-bold mb-10">Lokasi</h2>
         <div class="flex flex-col md:flex-row rounded-3xl overflow-hidden shadow-lg">
           
