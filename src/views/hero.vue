@@ -26,7 +26,7 @@
     </nav>
 
     <!-- Konten Hero -->
-    <div class="flex-grow flex items-center justify-center px-6 text-center relative z-10 mb-8">
+    <div data-aos="zoom-in" class="flex-grow flex items-center justify-center px-6 text-center relative z-10 mb-8">
       <div>
         <h1 class="text-3xl md:text-6xl font-bold text-black leading-tight">
           Software Hebat, <br> Bisnis Melesat

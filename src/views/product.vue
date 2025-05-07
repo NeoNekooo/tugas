@@ -7,7 +7,7 @@
 
         <!-- Produk 1-->
         <div class="flex flex-col md:flex-row items-center gap-10 mb-20">
-            <div class="md:w-1/2 relative">
+            <div data-aos="fade-right" class="md:w-1/2 relative">
                 <div class="absolute -top-4 -left-4 w-full h-full bg-[#C83F3F] rounded-2xl z-0"></div>
                 <img src="../assets/img/produk1.png" alt="Manypage" class="relative z-10 rounded-2xl shadow-xl" />
             </div>
@@ -29,7 +29,7 @@
 
         <!-- Produk 2 -->
         <div class="flex flex-col md:flex-row-reverse items-center gap-10">
-            <div class="md:w-1/2 relative">
+            <div data-aos="fade-left" class="md:w-1/2 relative">
                 <div class="absolute -top-4 -left-4 w-full h-full bg-green-600 rounded-2xl z-0"></div>
                 <img src="../assets/img/produk2.png" alt="Socialchat" class="relative z-10 rounded-2xl shadow-xl" />
             </div>
