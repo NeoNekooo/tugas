@@ -35,8 +35,7 @@
 
 <template>
   <Navbar/>
-  <div class="relative py-16 px-4 max-w-7xl mx-auto text-center">
-    <h2 class="text-3xl font-bold mb-12">Anggota</h2>
+  <div class="relative py-16 px-4 max-w-7xl mx-auto text-center mt-16">
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
       <div v-for="member in members" :key="member.id" class="cursor-pointer hover:scale-105 transition"
         @click="openModal(member)">

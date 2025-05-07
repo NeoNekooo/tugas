@@ -35,7 +35,7 @@ import { ref } from 'vue'
 
 const menu = [
   { name: 'profil', label: 'profil', url: '/' },
-  { name: 'produk', label: 'produk', url: '#product' },
+  { name: 'produk', label: 'produk', url: '/#product' },
   { name: 'blog', label: 'blog', url: 'https://manypage.id/blog' },
   { name: 'karir', label: 'karir', url: 'https://www.linkedin.com/company/pt-booster-teknologi-indonesia' },
   { name: 'Anggota', label: 'Anggota', url: '/anggota' },
