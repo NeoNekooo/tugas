@@ -38,7 +38,7 @@ const menu = [
   { name: 'produk', label: 'produk', url: '/#product' },
   { name: 'blog', label: 'blog', url: 'https://manypage.id/blog' },
   { name: 'karir', label: 'karir', url: 'https://www.linkedin.com/company/pt-booster-teknologi-indonesia' },
-  { name: 'Anggota', label: 'Anggota', url: '/anggota' },
+  { name: 'Anggota', label: 'Anggota', url: '/keanggota' },
   { name: 'Keuangan', label: 'Keuangan', url: '#' }
 ]
 
