@@ -130,7 +130,6 @@ async function deleteAnggota() {
   }
 }
 
-
 function saveForm() {
   submitForm()
 }
